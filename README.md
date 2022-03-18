@@ -1,2 +1,2 @@
 # 36350-S22
-For 36350 spring 2022 course materials
+This project is for 36350 spring 2022 course materials by Yiming Zhao.
